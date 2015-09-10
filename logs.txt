@@ -1,0 +1,29 @@
+commit 12ff6b13b123a0c59f8ba662b792aa2661433fcf
+Author: Erik Corrales <jecs1594@gmail.com>
+Date:   Wed Sep 9 16:41:58 2015 -0600
+
+    Pie de página Agregado
+
+commit cca8cefb1cb7a89e663a3636bab8b2d1002bd1aa
+Author: Erik Corrales <jecs1594@gmail.com>
+Date:   Wed Sep 9 16:34:25 2015 -0600
+
+    Formulario Agregado
+
+commit c81e93dd60ca419143b24976691183a62c8eb868
+Author: Erik Corrales <jecs1594@gmail.com>
+Date:   Wed Sep 9 16:28:10 2015 -0600
+
+    Pagina con Logo TEC
+
+commit c33f185d0f0cd1e300800a1e721e94d6a57fc08e
+Author: Erik Corrales <jecs1594@gmail.com>
+Date:   Tue Sep 8 16:53:02 2015 -0600
+
+    Proyecto ITC
+
+commit 00cedb27b57744cc67dbb33444e679f5e937fcf6
+Author: Erik Corrales <jecs1594@gmail.com>
+Date:   Tue Sep 8 16:39:07 2015 -0600
+
+    Proyecto en Blanco
